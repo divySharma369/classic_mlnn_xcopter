@@ -150,4 +150,4 @@ The first version of classic_mlnn_xopter can be downloaded [here](https://github
 It is intended to work with Arduino IDE.
 
 # **Author**
-Divy Sharma (Sole Creator)
+Divy Sharma 
