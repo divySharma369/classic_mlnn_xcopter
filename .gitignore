@@ -1,0 +1,32 @@
+# .pio
+.pio
+
+# .vscode
+.vscode
+
+# docs
+docs/*
+
+# images
+ESP32-DevKit-flying.jpg
+myclassic_mlnn_xopter-front-view.jpg
+myclassic_mlnn_xopter-up-side-view.jpg
+myclassic_mlnn_xopter-up-view.jpg
+
+# include
+Compass.h
+#    wifi
+include/wifi/serial.web_serial.h
+#   pinmaps
+/include/pinmaps/pinmap.OFF.h
+/include/pinmaps/pinmap.ATmega32.h
+/include/pinmaps/pinmap.ESP32CAM.h
+
+# lib
+lib/*
+!lib/BPNN
+
+# test
+test/*
+!test/classic_mlnn_xopter.zip
+!batteryCalc.cpp 
