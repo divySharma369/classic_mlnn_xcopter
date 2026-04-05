@@ -51,7 +51,7 @@ or download the .zip file.
 Use the Artificial Neural Network (ANN) to get rid of the PID setting, take a closer look [here](https://github.com/divySharma369/classic_mlnn_xcopter/wiki/PID#pid-auto-tuning).
 
 # **Description**
-Based on the [YMFC](https://github.com/F4b1-/YMFC-AL-Flight-Controller-improved) project, classic_mlnn_xopter allows you to control a quadcopter with:
+Based on the project, classic_mlnn_xopter allows you to control a quadcopter with:
 * gyroscope MPU6050;
 * radio controller and a receiver (_e.g._ FlySky);
 * 11.1V 3S >20C LiPo battery (2200mAh or 3800mAh);
